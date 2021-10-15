@@ -11,6 +11,7 @@ Vérification de la distribution en vitesse de Maxwell-Boltzmann,
 
 
 Améliorations à venir :
-...,
-...
-.
+-	Définition des ions, électrons, et atomes neutres
+-	Modélisation des interactions électromagnétiques entre particules chargées
+-	Amélioration des collisions pour prendre en compte tous les types de particules
+-	Modélisation des phénomènes d’ionisation et recombinaison.
