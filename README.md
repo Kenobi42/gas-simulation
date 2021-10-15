@@ -5,8 +5,10 @@ Chaque particule existe comme "item" indépendant, mais sa réalité physique es
 Actuellement le code est composé de :
 -Particules ayant une position et une vitesse aléatoire
 -Collisions élastiques entre particules et bordures du système
+-Collisions élastiques entre plusieurs particules
+-Répartition de l'énergie dans le système
+-Vérification de la distribution en vitesse de Maxwell-Boltzmann
 
 Améliorations à venir :
--Collisions élastiques entre plusieurs particules
--Ajout d'énergie au système
--Vérification de la distribution en vitesse de Botzmann
+-...
+-...
